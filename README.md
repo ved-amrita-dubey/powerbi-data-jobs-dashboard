@@ -77,6 +77,7 @@ This dashboard provides a macro-level analysis of the data job industry and serv
 ## Visual Analysis
 
 1. Job Trend Analysis (2024)
+   
 This line chart analyzes monthly hiring demand throughout the year.
 
 Key Findings:
