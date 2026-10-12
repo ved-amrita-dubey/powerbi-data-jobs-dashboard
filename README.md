@@ -77,7 +77,16 @@ This dashboard provides a macro-level analysis of the data job industry and serv
 ## Visual Analysis
 
 1. Job Trend Analysis (2024)
+This line chart analyzes monthly hiring demand throughout the year.
 
+Key Findings:
+
+- High demand observed during the beginning of the year.
+- Hiring activity experienced fluctuations throughout the year.
+- Noticeable decline toward the final quarter.
+- Partial recovery visible during the final month.
+
+Business Value: Recruiters and job seekers can identify hiring seasons and market cycles.
 
 
 
