@@ -146,7 +146,7 @@ Key Findings:
 
 2. Hourly Salary vs Annual Salary Analysis
 
-This scatter plot compares yearly compensation with hourly compensation across different job roles.
+This **scatter plot** compares yearly compensation with hourly compensation across different job roles.
 
 Key Findings:
 
@@ -157,7 +157,7 @@ Key Findings:
 
 3. Highest Paying Data Jobs
 
-The ranking chart identifies top-paying positions within the data industry.
+The **ranking chart** identifies top-paying positions within the data industry.
 
 Highest-paying roles include:
 
@@ -177,7 +177,9 @@ Provides a consolidated overview including:
 - Median Hourly Pay
 - Hiring Trend
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## 4. Dashboard 2: Job Title Drill-Through Analysis
 
 
 
