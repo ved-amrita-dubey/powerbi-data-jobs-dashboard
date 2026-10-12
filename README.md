@@ -45,7 +45,17 @@ By answering these type of questions, the dashboard enables data professionals t
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 3. Datasets Overview
+## 3. Data Engineering & Analytics Workflow
+
+The project pipeline executes across four integrated analytical stages to convert raw e-commerce transaction records into optimized business intelligence outputs:
+
+```text
+[Phase 1: Data Extraction] ➔ [Phase 2: ETL Transformation] ➔ [Phase 3: KPI Modeling] ➔ [Phase 4: Interactive Dashboarding]
+(Excel Data Source)          (Power Query Cleansing)         (DAX Measures & Metrics)   (Executive Visualization Layer)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 4. Datasets Overview
 
 The platform utilizes transactional sales data stored inside the source workbook:
 
@@ -63,7 +73,7 @@ The dataset contains approximately 479K job postings spanning multiple countries
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 4. Dashboard 1: Data Jobs Market Overview
+## 5. Dashboard 1: Data Jobs Market Overview
 
 This dashboard provides a macro-level analysis of the data job industry and serves as the entry point for users.
 
