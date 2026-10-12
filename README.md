@@ -28,7 +28,28 @@ The objective of this project is to help job seekers, analysts, and recruiters u
 | Business Coverage| Job Market Analytics, Salary Analysis, Hiring Trends, Workforce Insights, Geographic Distribution 
 --------------------------------------------------------------------------------
 
+## 📁 1. Repository Architecture & File Structure
 
+To maintain clean project organization and enterprise-level analytics documentation standards, all reporting assets, source datasets, and dashboard files are distributed across the following structured repository hierarchy:
+
+```text
+Project-2-E-Commerce-Sales-and-Profit-Analysis/
+│
+├── data/
+│   └── Job_postings                         # Raw e-commerce transactional dataset
+│
+├── reports/
+│   └── E-Commerce Sales and Profit Analysis.pbix     # Main Power BI dashboard application
+│
+├── exports/
+│   └── Screenshot_page-0001.jpg                       # Dashboard preview export image
+│
+├── docs/
+│   └── business_requirements.md                      # KPI & reporting objective documentation
+│
+└── README.md                                         # Complete project documentation
+```
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
