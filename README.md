@@ -34,8 +34,44 @@ With the increasing demand for data professionals, understanding job market tren
 
 This project aims to analyze 479K data-related job postings and transform raw recruitment data into actionable insights through an interactive Power BI dashboard. The analysis focuses on salary trends, job demand, employment types, remote work opportunities, hiring platforms, and geographic distribution of data jobs, enabling data-driven career and workforce decisions.
 
+The primary objective of this project is to answer critical business and career-related questions, including:
+
+- Which data-related roles offer the highest compensation?
+- Which job titles are currently in highest demand?
+- How do hourly and yearly salaries compare among different roles?
+- What employment types dominate the data job market?
+
+By answering these type of questions, the dashboard enables data professionals to better understand market conditions and career opportunities.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## 3. Datasets Overview
+
+The platform utilizes transactional sales data stored inside the source workbook:
+
+```text
+job_posting_fact.xlsx
+```
+The dataset contains:
+
+- Job information
+- Compensation information
+- Employment Benefits
+- Recruitment Information
+
+The dataset contains approximately 479K job postings spanning multiple countries and job categories.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 4. Dashboard 1: Data Jobs Market Overview
+
+This dashboard provides a macro-level analysis of the data job industry and serves as the entry point for users.
+
+## Key Metrics
+•	Total Job Postings: 479K
+•	Median Yearly Salary: $113K
+•	Median Hourly Salary: $47.62
+•	Salary Rating Indicator
 
 
 
