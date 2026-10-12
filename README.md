@@ -55,7 +55,7 @@ The project pipeline executes across four integrated analytical stages to conver
 ```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 4. Datasets Overview
+## 🔹 Phase 1: Raw Data Acquisition
 
 The platform utilizes transactional sales data stored inside the source workbook:
 
@@ -73,7 +73,54 @@ The dataset contains approximately 479K job postings spanning multiple countries
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 5. Dashboard 1: Data Jobs Market Overview
+## 🔹 Phase 2: Power Query ETL & Data Transformation
+
+The raw dataset was imported into Power BI and transformed using Power Query. Several data preparation activities were performed to improve data quality and ensure consistency before analysis.
+
+Key Activities:
+
+- Data profiling and quality checks
+- Handling missing and null values
+- Data type standardization
+- Column transformations and formatting
+- Removing unnecessary fields
+- Creating analytical-ready datasets
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🔹 Phase 3: Data Modeling & KPI Development
+
+After data transformation, the dataset was modeled within Power BI to support analytical reporting. DAX measures were created to calculate key business metrics used throughout the dashboard.
+
+Key KPIs Developed:
+
+- Total Job Count
+- Median Yearly Salary
+- Median Hourly Salary
+- Work From Home Percentage
+- Degree Mention Percentage
+- Health Insurance Percentage
+- Job Trend Metrics
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🔹 Phase 4: Interactive Dashboard Development
+
+Visualizations were created to help users explore salary trends, hiring demand, employment patterns, and geographic distribution of data jobs.
+
+Dashboard Features:
+
+- KPI Cards
+- Salary Analysis
+- Trend Analysis
+- Geographic Mapping using Bing Maps
+- Job Title Drill-Through Pages
+- Interactive Filtering and Slicers
+- Employment Type Analysis
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 4. Dashboard 1: Data Jobs Market Overview
 
 This dashboard provides a macro-level analysis of the data job industry and serves as the entry point for users.
 
@@ -88,7 +135,7 @@ This dashboard provides a macro-level analysis of the data job industry and serv
 
 1. Job Trend Analysis (2024)
    
-This line chart analyzes monthly hiring demand throughout the year.
+This **line chart** analyzes monthly hiring demand throughout the year.
 
 Key Findings:
 
