@@ -68,10 +68,15 @@ The dataset contains approximately 479K job postings spanning multiple countries
 This dashboard provides a macro-level analysis of the data job industry and serves as the entry point for users.
 
 ## Key Metrics
-•	Total Job Postings: 479K
-•	Median Yearly Salary: $113K
-•	Median Hourly Salary: $47.62
-•	Salary Rating Indicator
+-	Total Job Postings: 479K
+-	Median Yearly Salary: $113K
+-	Median Hourly Salary: $47.62
+-	Salary Rating Indicator
+
+
+## Visual Analysis
+
+1. Job Trend Analysis (2024)
 
 
 
