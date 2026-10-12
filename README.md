@@ -52,7 +52,7 @@ The project pipeline executes across four integrated analytical stages to conver
 ```text
 [Phase 1: Data Extraction] ➔ [Phase 2: ETL Transformation] ➔ [Phase 3: KPI Modeling] ➔ [Phase 4: Interactive Dashboarding]
 (Excel Data Source)          (Power Query Cleansing)         (DAX Measures & Metrics)   (Executive Visualization Layer)
-
+```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 4. Datasets Overview
