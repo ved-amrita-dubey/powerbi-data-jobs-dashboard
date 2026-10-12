@@ -87,10 +87,38 @@ Key Findings:
 - Noticeable decline toward the final quarter.
 - Partial recovery visible during the final month.
 
-Business Value: Recruiters and job seekers can identify hiring seasons and market cycles.
+2. Hourly Salary vs Annual Salary Analysis
 
+This scatter plot compares yearly compensation with hourly compensation across different job roles.
 
+Key Findings:
 
+- Machine Learning Engineers receive the highest compensation.
+- Senior Data Scientists command premium salaries.
+- Data Engineers consistently rank among top-paying positions.
+- Data Analysts generally earn lower salaries compared to specialized engineering roles.
+
+3. Highest Paying Data Jobs
+
+The ranking chart identifies top-paying positions within the data industry.
+
+Highest-paying roles include:
+
+- Data Engineer
+- Data Analyst
+- Data Scientist
+- Senior Data Engineer
+- Business Analyst
+- Software Engineer
+
+4. Job Role Summary Table
+
+Provides a consolidated overview including:
+
+- Job Count
+- Median Salary
+- Median Hourly Pay
+- Hiring Trend
 
 
 
