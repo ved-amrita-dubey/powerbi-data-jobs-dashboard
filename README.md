@@ -28,28 +28,32 @@ The objective of this project is to help job seekers, analysts, and recruiters u
 | Business Coverage| Job Market Analytics, Salary Analysis, Hiring Trends, Workforce Insights, Geographic Distribution 
 --------------------------------------------------------------------------------
 
-## 📁 1. Repository Architecture & File Structure
+## 2. Business Problem & Analytical Objective
 
-To maintain clean project organization and enterprise-level analytics documentation standards, all reporting assets, source datasets, and dashboard files are distributed across the following structured repository hierarchy:
+With the increasing demand for data professionals, understanding job market trends, salary expectations, hiring patterns, and workforce requirements has become important for both job seekers and recruiters. However, job market data is often scattered across multiple platforms, making it difficult to extract meaningful insights.
 
-```text
-Project-2-E-Commerce-Sales-and-Profit-Analysis/
-│
-├── data/
-│   └── Job_postings                         # Raw e-commerce transactional dataset
-│
-├── reports/
-│   └── E-Commerce Sales and Profit Analysis.pbix     # Main Power BI dashboard application
-│
-├── exports/
-│   └── Screenshot_page-0001.jpg                       # Dashboard preview export image
-│
-├── docs/
-│   └── business_requirements.md                      # KPI & reporting objective documentation
-│
-└── README.md                                         # Complete project documentation
-```
---------------------------------------------------------------------------------------------------------------------------------------------------------
+This project aims to analyze 479K data-related job postings and transform raw recruitment data into actionable insights through an interactive Power BI dashboard. The analysis focuses on salary trends, job demand, employment types, remote work opportunities, hiring platforms, and geographic distribution of data jobs, enabling data-driven career and workforce decisions.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
