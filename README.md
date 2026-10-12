@@ -1,4 +1,3 @@
-<img width="1367" height="787" alt="image" src="https://github.com/user-attachments/assets/a3f84a84-f359-4068-9f19-46d2e5510ba4" /># Data Jobs Market Analysis Dashboard
 This project analyzes the global data job market using Power BI. The dashboard provides insights into salary trends, job demand, hiring locations, remote work opportunities, job types, and employer benefits across various data-related roles.
 
 The objective of this project is to help job seekers, analysts, and recruiters understand the current data job landscape by exploring hiring patterns and compensation trends.
